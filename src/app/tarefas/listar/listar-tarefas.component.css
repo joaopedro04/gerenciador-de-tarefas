@@ -1,0 +1,9 @@
+.title {
+    text-decoration: none;
+    color: black;
+}
+
+.title:hover {
+    /* text-decoration: none !important; */
+    color: black;
+}
